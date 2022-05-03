@@ -17,3 +17,8 @@ Built on the top of Polygon network, making it very scaleable and cheap solution
 `flutter run`
 - To build apk 
 `flutter build apk`
+
+# Technologies used
+
+- Polygon testnet
+- Web3.storage
